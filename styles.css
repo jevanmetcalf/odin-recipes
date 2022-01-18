@@ -14,16 +14,16 @@ h2{
   color: white;
 }
 
-.directions {
+div.directions {
   background-color: rgb(11, 14, 200);
   color: white;
 }
     
 img {
   height: auto;
-  width: 1500px;
+  width: 750px;
 }
 
-.ul.ol.li {
+.front {
   font-weight: bold;
 }
