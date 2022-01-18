@@ -1,28 +1,30 @@
+FIX IMAGE SIZE, BOLD LISTS, H2 COLOR
 div {
   color: white;
   background-color: black;
-  }
+}
 
 h1 {
   background-color: rgb(189, 31, 52);
   color: white;
+}
 
-h2 {
-  background-color: rgb(189, 31, 52);
+h2{
+  background-color: rgb(15, 117, 38);
   color: white;
 }
 
 p {
   color: rgb(11, 14, 200);
-  }
+}
     
 img {
   height: auto;
   width: 500px;
-  }
+}
 
 .ul,
 .ol,
-.li, {
+.li {
   font-weight: bold;
 }
