@@ -1,4 +1,4 @@
-FIX IMAGE SIZE, BOLD LISTS, H2 COLOR
+FIX IMAGE SIZE, BOLD LISTS, H2 COLOR, FONT FAMILY
 div {
   color: white;
   background-color: black;
@@ -14,17 +14,16 @@ h2{
   color: white;
 }
 
-p {
-  color: rgb(11, 14, 200);
+.directions {
+  background-color: rgb(11, 14, 200);
+  color: white;
 }
     
 img {
   height: auto;
-  width: 500px;
+  width: 1500px;
 }
 
-.ul,
-.ol,
-.li {
+.ul.ol.li {
   font-weight: bold;
 }
