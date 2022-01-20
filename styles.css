@@ -1,14 +1,13 @@
-FIX H2 COLOR, 
 h1 {
   background-color: rgb(228, 36, 62);
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   color: white;
 }
 
 h2 {
   background-color: rgb(34, 160, 64);
   color: white;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 div {
@@ -29,18 +28,18 @@ img {
 .front {
   font-size: 16px;
   background-color: white;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
 }
 
 p {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 ol {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 ul {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
