@@ -21,6 +21,11 @@ img {
   width: 750px;
 }
 
+.hello {
+  height: auto;
+  width: 300px; 
+}
+
 .front {
   font-size: 16px;
   background-color: white;
