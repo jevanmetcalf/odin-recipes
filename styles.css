@@ -1,17 +1,14 @@
 FIX H2 COLOR, 
-div {
-  color: white;
-  background-color: black;
-}
-
 h1 {
   background-color: rgb(189, 31, 52);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: white;
 }
 
 h2{
   background-color: rgb(15, 117, 38);
   color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 div.directions {
@@ -27,9 +24,10 @@ img {
 .front {
   font-size: 16px;
   background-color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: bold;
 }
 
-h1.h2.p.ol.ul. {
+p. {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
