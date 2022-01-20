@@ -1,4 +1,4 @@
-FIX IMAGE SIZE, BOLD LISTS, H2 COLOR, FONT FAMILY
+FIX H2 COLOR, FONT FAMILY, BUTTONS?
 div {
   color: white;
   background-color: black;
@@ -25,5 +25,7 @@ img {
 }
 
 .front {
-  font-weight: bold;
+  font-size: 16px;
+  background-color: rgb(15, 117, 38);
+  color: white;
 }
