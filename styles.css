@@ -1,12 +1,12 @@
 FIX H2 COLOR, 
 h1 {
-  background-color: rgb(189, 31, 52);
+  background-color: rgb(228, 36, 62);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: white;
 }
 
 h2 {
-  background-color: rgb(15, 117, 38);
+  background-color: rgb(34, 160, 64);
   color: white;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -29,5 +29,9 @@ img {
 }
 
 p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
