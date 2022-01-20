@@ -1,4 +1,4 @@
-FIX H2 COLOR, FONT FAMILY, BUTTONS?
+FIX H2 COLOR, 
 div {
   color: white;
   background-color: black;
@@ -26,6 +26,10 @@ img {
 
 .front {
   font-size: 16px;
-  background-color: rgb(15, 117, 38);
-  color: white;
+  background-color: white;
+  font-weight: bold;
+}
+
+h1.h2.p.ol.ul. {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
